@@ -1,0 +1,25 @@
+nav{
+    padding-left: 500px;
+    background-color: white;
+}
+
+a{
+    padding: 10px;
+    text-decoration: none;
+    border-color: red;
+}
+body{
+    background-image: url(img/success.jpg);
+}
+h1{
+    font-family: 'Rubik Mono One', sans-serif;
+    font-weight: 600;
+    font-size: 500%;
+}
+#success{
+    padding-top: 200px;
+}
+h5{
+    color: white;
+}
+
